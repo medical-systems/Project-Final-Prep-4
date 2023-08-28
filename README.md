@@ -8,9 +8,53 @@
 
 ![HomePage](/images/HomePage.png)
 
+-------
+
 ## User Stories
 
-### for malek
+- **Users :** secretary, doctor, patient
+
+### Senario 1
+
+As a new patient who didn't go to the clinic before and want to book an appointment, he will go to the home page through clicin domain, then click on sign up button and put his registering information.
+
+Then a url redirection will happen to the login page. With putting his credentials he will be logged in.
+
+
+### Senario 2
+
+A registered patient want to book a new appointment, he will go to the application and log in then going to the booking tab then to the dentist tab and he can choose his doctor, when click on the doctor he will see the booked and available dates and time for this doctor then he can choose from the available times and click on book button. 
+
+- a confirmation message will appear on the window.
+
+- He will receive a confirmation message with the date and time of the appointment on his phone.
+
+- The doctor also will recieve a message for this appointment.
+
+
+### Senario 3
+
+A patient s to see his appointments, he will login to the application and then from the appointments tab he can select from 2 sub tabs (upcoming and history) and then seeing his upcoming or old appointments.
+
+
+### Senario 4
+
+A patient wnats to edit or delete his appointment, he will login to the application and then from the appointments tab the upcoming tab and then click on delete button then confirm the deletion message .. or edit a specific appointment from edit button then save button.
+
+
+### Senario 5
+
+A doctor wnats to see his appointments, he will login and from the appointments tab he can select from 2 sub tabs (upcoming and history) and then seeing his upcoming or old appointments.
+
+- he can edit some information in history's appointments . 
+
+- he can search about name of a patient or he can select a specific date.
+
+- he can book a new appointment for a patient  from booking tab.
+
+- Doctors can't do a sign up, only admin can add them.
+
+--------
 
 ## Software Requirements
 
