@@ -18,6 +18,8 @@
 
 ## Domain Modeling
 
+![Domain Modeling](/images/fronend.png)
+
 ## Using a Database? Make an Database Schema Diagram
 
 ![DatabaseSchema](/images/DatabaseSchema.png)
